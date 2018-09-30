@@ -1,0 +1,94 @@
+{
+    "title":"Hello, I'm Armin",
+    "subtitle":"Full Stack Dev | Open-Source Enthusiast",
+    "links":{
+        "github":"https://github.com/armin2209s",
+        "instagram":"https://www.instagram.com/armin2209s/",
+        "twitter":"https://www.twitter.com/armin2209s/"
+    },
+    "sections":[
+        {
+            "title":"About",
+            "items":[
+                {
+                    "type":"p",
+                    "content":"Hello i'm Armin and i'm 24 years old.I have a degree in geomatics engineering from Tabriz university"
+                }
+            ]
+        },
+        {
+            "title":"Skills",
+            "items":[
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"images/react.png",
+                        "title":"React"
+                    
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"images/matlab.png",
+                        "title":"Matlab"
+                    
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"images/autocad.png",
+                        "title":"Autocad"
+                    
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"images/indesign.png",
+                        "title":"InDesign"
+                    
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"images/wordpress.png",
+                        "title":"Wordpress"
+                    
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"images/javascript.png",
+                        "title":"JavaScript"
+                    
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"images/html.png",
+                        "title":"HTML"
+                    
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"images/css.png",
+                        "title":"CSS"
+                    
+                    }
+                }
+                
+            ]
+        }
+    ],
+    "icons":{
+        "down":"images/down.png",
+        "down2":"images/down2.png"
+    }
+}
